@@ -1,9 +1,15 @@
-# Ignore all directories other than riders
+# Ignore all directories
 *
+
+# Don't ignore rider
 !rider/
 !rider/**
+
+# Don't ignore bikes
+!bikes/
+!bikes/*.pnt
+
+# Repo things
 !readme.md
 !.gitattributes
-!init.bat
-!pull.bat
-!push.bat
+!*.bat
