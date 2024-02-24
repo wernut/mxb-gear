@@ -1,3 +1,4 @@
 # Ignore all directories other than riders
 *
 !rider/
+!rider/**

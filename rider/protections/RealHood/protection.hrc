@@ -1,0 +1,6 @@
+
+level0
+{
+	scene = protection.edf
+	switch = 0
+}
