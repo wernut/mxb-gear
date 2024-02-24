@@ -5,11 +5,19 @@
 !rider/
 !rider/**
 
-# Don't ignore bikes
+# Don't ignore bike paints
 !bikes/
-
-# Allow all .pnt files in bikes directory and its subdirectories
-!bikes/**/paints/**
+!bikes/*
+!bikes/*/*
+!bikes/*/*/paints
+!*.pnt
+*.pkz
+*.cfg
+*.ini
+*.hrc
+*.scl
+*.edf
+*.txt
 
 # Repo things
 !readme.md
