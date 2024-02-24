@@ -2,3 +2,5 @@
 *
 !rider/
 !rider/**
+!readme.md
+!.gitattributes
