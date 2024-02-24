@@ -9,7 +9,7 @@
 !bikes/
 
 # Allow all .pnt files in bikes directory and its subdirectories
-!bikes/**/paints/*.pnt
+!bikes/**/paints/**
 
 # Repo things
 !readme.md
