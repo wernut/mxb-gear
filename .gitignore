@@ -4,3 +4,6 @@
 !rider/**
 !readme.md
 !.gitattributes
+!init.bat
+!pull.bat
+!push.bat
