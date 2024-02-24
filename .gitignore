@@ -7,7 +7,9 @@
 
 # Don't ignore bikes
 !bikes/
-!bikes/*.pnt
+
+# Allow all .pnt files in bikes directory and its subdirectories
+!bikes/**/*.pnt
 
 # Repo things
 !readme.md
