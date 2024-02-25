@@ -1,0 +1,7 @@
+
+level0
+{
+	scene = boots.edf
+	name = righta
+	switch = 0
+}

@@ -1,23 +1,9 @@
-# Ignore everything
+# Ignore all files except for .pnt and .pkz
 *
-
-# Don't ignore rider
-!rider/
-!rider/**
-
-# Don't ignore bike paints
-!bikes/
-!bikes/*
-!bikes/*/*
-!bikes/*/*/paints
+!*/
 !*.pnt
-*.pkz
-*.cfg
-*.ini
-*.hrc
-*.scl
-*.edf
-*.txt
+!rider/**
+bike/**/*.pkz
 
 # Repo things
 !readme.md
